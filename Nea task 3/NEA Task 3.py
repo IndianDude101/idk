@@ -93,6 +93,8 @@ def c():
         print("Matches Lost - {}".format(x[index][3]))
         print("Points - {}".format(x[index][0]))
 
+        
+# Runs the Program
 
 while True:
     menu()
